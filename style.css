@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 16px;
+    
+
+   
+    
+    
+}
+.child{
+    width: 33.33%;
+    box-sizing: content-box;
+    height: 100%;
+    border: 3px solid black;
+    margin: 8px;
+    float: right;
+}
+
+
+h2{
+    text-align: center;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    width: 160px;
+}
+.h2{
+    display: block;
+    
+    
+}
+p{
+    display: block;
+    padding: 24px;
+} 
