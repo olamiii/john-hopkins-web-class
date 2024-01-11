@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../first-project.github.io"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "first-project.github.io"
+	}
+}
