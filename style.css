@@ -24,17 +24,37 @@ h1{
 
 h2{
     text-align: center;
-    border-left: 3px solid black;
-    border-bottom: 3px solid black;
-    border-top: 3px solid black;
-    width: 160px;
+    height: auto;
+    width: auto;
+    
+   
+    
 }
 .h2{
-    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
     
     
 }
 p{
     display: block;
     padding: 24px;
+    clear: right;
 } 
+.title{
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 150px;
+    float: right;
+}
+
+h2:nth-child(2){
+    background-color: #D59898;
+}
+
